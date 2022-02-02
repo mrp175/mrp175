@@ -4,7 +4,7 @@ I'm Ptolemy, a full stack developer based in London, UK
 
 I’m a full stack developer with a love of novel ideas and a passion for problem solving. With a background in music technology, I aim to bring these technical and creative skills into software development. 
 
-🔭 I'm currently working on Embers, an web app to help people DJ. 
+🔭 I'm currently working on [mymix_online](https://github.com/mrp175/mymix_online), an web app to help people DJ. 
 
 When I’m not coding, you can usually find me in poorly lit room producing music.
 
